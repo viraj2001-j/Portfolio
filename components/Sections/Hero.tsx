@@ -27,7 +27,7 @@ const Hero: React.FC<HeroProps> = ({
   tagline = "Building Digital Excellence",
   description = "I create beautiful, functional, and user-centered digital experiences. Passionate about turning ideas into reality through clean code and innovative solutions.",
   profileImage = "/Images/OIP.webp",
-  resumeUrl = "/resume.pdf",
+  resumeUrl = "/Images/resume.pdf",
   socialLinks = {
     github: "https://github.com/viraj2001-j",
     linkedin: "https://linkedin.com/in/yourusername",

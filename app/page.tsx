@@ -46,13 +46,7 @@ const Home: React.FC = () => {
 
   return (
     <>
-      <Head>
-        <title>Alex Quantum | Senior AI Engineer & Full Stack Developer</title>
-        <meta name="description" content="Senior AI Engineer and Full Stack Developer specializing in cutting-edge technologies, machine learning, and futuristic web development" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
-
+   
       <div className="min-h-screen bg-gradient-to-br from-gray-900 via-black to-gray-900 text-white overflow-hidden">
         {/* <AnimatedBackground /> */}
         <Header 
